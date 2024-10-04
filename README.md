@@ -1,2 +1,2 @@
-# Tugas 1 - X PPLG 3
-Tugas 1, Wafa Sakhina
+# Tugas 1 - DPPLG
+Wafa Sakhina Az-Zahra - X PPLG 3
